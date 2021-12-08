@@ -69,8 +69,8 @@
     "disableGitFeatures": false,
     "globalMetadata": {
       "_appTitle": "Crafting",
-      "_appLogoPath": "images/.png",
-      "_appFaviconPath": "images/.ico",
+      "_appLogoPath": "images/logo.png",
+      "_appFaviconPath": "images/favicon.ico",
       "_appFooter": "Alex Hedley",
       "_gitContribute": {
         "repo": "https://github.com/AlexHedley/crafting",
