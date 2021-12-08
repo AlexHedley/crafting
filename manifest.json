@@ -12,7 +12,130 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "TJ985Ef8BGjqJc0O/P6h4g=="
+          "hash": "fzRUe7ZiHjcbvO8M0uax6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/birthdaycard/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/birthdaycard/README.html",
+          "hash": "AF2ZCOvFyJpaIuQI/rLEeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/birthdaycard/images/birthdaycard.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/birthdaycard/images/birthdaycard.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/christmasdecoration/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/christmasdecoration/README.html",
+          "hash": "gCOr3Lp40xs1jgD9nZYugg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmasdecoration/images/Stage1.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmasdecoration/images/Stage1.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmasdecoration/images/Stage2.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmasdecoration/images/Stage2.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmasdecoration/images/Stage3.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmasdecoration/images/Stage3.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmasdecoration/images/Stage4.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmasdecoration/images/Stage4.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmasdecoration/images/Stage5.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmasdecoration/images/Stage5.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmasdecoration/images/Stage6.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmasdecoration/images/Stage6.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmasdecoration/images/Stage7.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmasdecoration/images/Stage7.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmasdecoration/images/Stage8.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmasdecoration/images/Stage8.jpeg"
         }
       },
       "is_incremental": false,
@@ -24,7 +147,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "MdaR8qurUqnchSbpwVWVXg=="
+          "hash": "wK8MgnOYsJqDa5yo1NQa8Q=="
         }
       },
       "is_incremental": false,
@@ -36,7 +159,29 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "t7iiFrmuYmrKWisdq+lN6Q=="
+          "hash": "MxTsVnoIHBUNEbuRCc8+vQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "images/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
         }
       },
       "is_incremental": false,
@@ -48,7 +193,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "1uVcVjbZWLZez+KqJL3TcA=="
+          "hash": "FAehWp6kUBUfxG2qd4CSPw=="
         }
       },
       "is_incremental": false,
@@ -60,7 +205,7 @@
       "output": {
         ".html": {
           "relative_path": "supplies/intro.html",
-          "hash": "Sin4hQJPenkR9pw7Rad+6A=="
+          "hash": "NYkkNSE+/JZKncRJLB8BJA=="
         }
       },
       "is_incremental": false,
@@ -102,9 +247,9 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
-        "TocDocumentProcessor": {
+        "ResourceDocumentProcessor": {
           "can_incremental": false,
-          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
           "skipped_file_count": 0
@@ -112,7 +257,14 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 4,
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
           "skipped_file_count": 0
         }
       }
