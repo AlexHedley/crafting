@@ -35,6 +35,8 @@ Feed a bead through the string, feed through center of ball, add another bead, t
 
 ![Stage 8](images/Stage8.jpeg "Stage 8")
 
+![Red Green](images/redgreen.jpeg "Red Green")
+
 ### Stages
 
 ![Stage 1](images/Stage1.jpeg "Stage 1")
