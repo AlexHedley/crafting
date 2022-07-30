@@ -65,6 +65,29 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "articles/christmascard/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/christmascard/README.html",
+          "hash": "M2IvtAc/Eu/S5svqcwzTlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascard/images/christmascard.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascard/images/christmascard.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "articles/christmascrackers/README.md",
       "output": {
         ".html": {
@@ -77,10 +100,197 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/026D70A9-53D7-430F-882F-680E6271F89F.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/026D70A9-53D7-430F-882F-680E6271F89F.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/04826AD5-BD1C-482A-A1DC-B814AD2E035F.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/04826AD5-BD1C-482A-A1DC-B814AD2E035F.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/049281E0-2630-47F2-8EDE-8D901BB11F7E.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/049281E0-2630-47F2-8EDE-8D901BB11F7E.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/2DB5EC9E-026F-4791-ADEE-A38E6BA56CC1.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/2DB5EC9E-026F-4791-ADEE-A38E6BA56CC1.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/456FD951-0AA1-48A7-A317-B1A6905F6330.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/456FD951-0AA1-48A7-A317-B1A6905F6330.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/4A46A275-E46B-4068-A690-55F7961891B0.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/4A46A275-E46B-4068-A690-55F7961891B0.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/57391DFB-625C-4A9D-B58C-B9AA88594954.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/57391DFB-625C-4A9D-B58C-B9AA88594954.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/71987961-224A-43EE-BD6E-CCF05A2D5757.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/71987961-224A-43EE-BD6E-CCF05A2D5757.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/728DEDEC-8F6E-410E-8090-6C27E59B40FA.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/728DEDEC-8F6E-410E-8090-6C27E59B40FA.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/8AA5EA40-B2A7-45AF-A970-077DD5A781F9.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/8AA5EA40-B2A7-45AF-A970-077DD5A781F9.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/8C111973-695A-4E38-9BE4-219E95ED5392.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/8C111973-695A-4E38-9BE4-219E95ED5392.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/9213C685-7B8A-470D-A025-56989992431A.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/9213C685-7B8A-470D-A025-56989992431A.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/AC678E1E-7493-460B-A243-511896AD78C7.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/AC678E1E-7493-460B-A243-511896AD78C7.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/C2B07C3A-ABD8-4BAA-9853-8BF7F8A0BA04.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/C2B07C3A-ABD8-4BAA-9853-8BF7F8A0BA04.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/C99C5BAD-F789-41DE-90D2-771F9B11085C.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/C99C5BAD-F789-41DE-90D2-771F9B11085C.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/CC4BCE2E-8B40-4BE6-9B1B-CC732C5B0DA2.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/CC4BCE2E-8B40-4BE6-9B1B-CC732C5B0DA2.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "articles/christmascrackers/images/ChristmasTree.png",
       "output": {
         "resource": {
           "relative_path": "articles/christmascrackers/images/ChristmasTree.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/EF777A78-0B7A-47F3-B3DE-1073477BA71B.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/EF777A78-0B7A-47F3-B3DE-1073477BA71B.jpeg"
         }
       },
       "is_incremental": false,
@@ -236,7 +446,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "+LVHV23EKd6mDnP7BO5Llw=="
+          "hash": "RARIH1gqPFw1MsW3gYTnaA=="
         }
       },
       "is_incremental": false,
@@ -248,7 +458,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "pgc9kAXdTPn1pRtB/LOugA=="
+          "hash": "aMnOJ2Hp/z/6CGkq/nYOiw=="
         }
       },
       "is_incremental": false,
@@ -305,7 +515,7 @@
       "output": {
         ".html": {
           "relative_path": "supplies/intro.html",
-          "hash": "NYkkNSE+/JZKncRJLB8BJA=="
+          "hash": "XpPo5ZxbbCfsDbWB3ulRLQ=="
         }
       },
       "is_incremental": false,
@@ -366,17 +576,17 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 9,
+          "skipped_file_count": 0
+        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
-          "skipped_file_count": 0
-        },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 8,
           "skipped_file_count": 0
         }
       }
