@@ -65,11 +65,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "articles/christmasdecoration/README.md",
+      "source_relative_path": "articles/christmascrackers/README.md",
       "output": {
         ".html": {
-          "relative_path": "articles/christmasdecoration/README.html",
-          "hash": "gCOr3Lp40xs1jgD9nZYugg=="
+          "relative_path": "articles/christmascrackers/README.html",
+          "hash": "sqn+HNTCPlxHjPeLfFsVhg=="
         }
       },
       "is_incremental": false,
@@ -77,10 +77,55 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "articles/christmasdecoration/images/0271E7DB-293F-4C73-BE27-2492A0309E7C.jpeg",
+      "source_relative_path": "articles/christmascrackers/images/ChristmasTree.png",
       "output": {
         "resource": {
-          "relative_path": "articles/christmasdecoration/images/0271E7DB-293F-4C73-BE27-2492A0309E7C.jpeg"
+          "relative_path": "articles/christmascrackers/images/ChristmasTree.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/Snowflake.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/Snowflake.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/Snowman.png",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/Snowman.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "articles/christmascrackers/images/christmascrackers.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmascrackers/images/christmascrackers.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/christmasdecoration/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/christmasdecoration/README.html",
+          "hash": "S7l0clMaarykx4yDjAhzLQ=="
         }
       },
       "is_incremental": false,
@@ -175,12 +220,23 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "articles/christmasdecoration/images/redgreen.jpeg",
+      "output": {
+        "resource": {
+          "relative_path": "articles/christmasdecoration/images/redgreen.jpeg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "articles/intro.md",
       "output": {
         ".html": {
           "relative_path": "articles/intro.html",
-          "hash": "wK8MgnOYsJqDa5yo1NQa8Q=="
+          "hash": "+LVHV23EKd6mDnP7BO5Llw=="
         }
       },
       "is_incremental": false,
@@ -192,7 +248,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "MxTsVnoIHBUNEbuRCc8+vQ=="
+          "hash": "pgc9kAXdTPn1pRtB/LOugA=="
         }
       },
       "is_incremental": false,
@@ -233,6 +289,17 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "supplies/images/354159_04.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "supplies/images/354159_04.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "supplies/intro.md",
       "output": {
@@ -245,12 +312,24 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "supplies/light.md",
+      "output": {
+        ".html": {
+          "relative_path": "supplies/light.html",
+          "hash": "TQRaez3Vtu3kv/GiWbELWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "supplies/toc.yml",
       "output": {
         ".html": {
           "relative_path": "supplies/toc.html",
-          "hash": "t7iiFrmuYmrKWisdq+lN6Q=="
+          "hash": "49106NXlfo8IsZ9s1wm8Hw=="
         }
       },
       "is_incremental": false,
@@ -262,7 +341,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "EYPfxxBPX3Fmo9mWX/hyXQ=="
+          "hash": "2PhBkl5ACFQrZY8Y3zsoeQ=="
         }
       },
       "is_incremental": false,
@@ -287,17 +366,17 @@
           "total_file_count": 0,
           "skipped_file_count": 0
         },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 6,
-          "skipped_file_count": 0
-        },
         "TocDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 8,
           "skipped_file_count": 0
         }
       }
