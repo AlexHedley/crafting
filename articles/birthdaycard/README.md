@@ -8,6 +8,9 @@
 - Foam squares
 - Black pen
 
+- Green card
+- Blue card
+
 ## Steps
 
 Cut out rectangle
@@ -21,6 +24,8 @@ Write card
 ## Outcome
 
 ![Birthday Card](images/birthdaycard.jpeg "Birthday Card")
+![Birthday Card](images/birthdaycard-green.jpeg "Birthday Card")
+![Birthday Card](images/birthdaycard-blue.jpeg "Birthday Card")
 
 <!-- ### Stages -->
 
