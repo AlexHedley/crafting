@@ -24,7 +24,7 @@
       "output": {
         ".html": {
           "relative_path": "articles/birthdaycard/README.html",
-          "hash": "AF2ZCOvFyJpaIuQI/rLEeg=="
+          "hash": "nj/U46iu5f41+0QppPPsog=="
         }
       },
       "is_incremental": false,
@@ -32,10 +32,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "articles/birthdaycard/images/112B1955-E4C6-4FBD-98F5-0DCDA003A31B.jpeg",
+      "source_relative_path": "articles/birthdaycard/images/birthdaycard-blue.jpeg",
       "output": {
         "resource": {
-          "relative_path": "articles/birthdaycard/images/112B1955-E4C6-4FBD-98F5-0DCDA003A31B.jpeg"
+          "relative_path": "articles/birthdaycard/images/birthdaycard-blue.jpeg"
         }
       },
       "is_incremental": false,
@@ -43,10 +43,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "articles/birthdaycard/images/1DBDE68B-0671-4376-919D-82F5B7C57582.jpeg",
+      "source_relative_path": "articles/birthdaycard/images/birthdaycard-green.jpeg",
       "output": {
         "resource": {
-          "relative_path": "articles/birthdaycard/images/1DBDE68B-0671-4376-919D-82F5B7C57582.jpeg"
+          "relative_path": "articles/birthdaycard/images/birthdaycard-green.jpeg"
         }
       },
       "is_incremental": false,
@@ -569,17 +569,17 @@
         "full_build_reason_code": "NoAvailableBuildCache"
       },
       "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 9,
+          "skipped_file_count": 0
+        },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
           "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
           "incrementalPhase": "build",
           "total_file_count": 0,
-          "skipped_file_count": 0
-        },
-        "ConceptualDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 9,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
